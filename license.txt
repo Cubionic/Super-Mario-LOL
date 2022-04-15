@@ -1,0 +1,16 @@
+x----------------------- LICENSES -------------------------x
+
+-> NOTE: I'm not going to release this game or earn any form of money from it (Lol)
+-> This game is just a parody version of the original 'Super Mario Bros' from Nintendo
+
+CREDITS:
+
+I credit the owner of the original version of Super Mario Bros for
+all the sprites and game files such as animations and sound effects or any kind of sprite designing.
+
+The code available in ezmenu.py file of this game is derived from CurseForge's website.
+
+					-----X-----
+GitHub: https://github.com/cubionic/
+Copyright (C) Cubic Rouch - 2022
+(yOINK)
